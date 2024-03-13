@@ -1,4 +1,4 @@
-## Web Carros
+## Barber PRO - Backend
 The objective of this project is to create a backend for a for a barbershop system.
 
 ## Technology 
