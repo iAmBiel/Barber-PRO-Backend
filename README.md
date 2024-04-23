@@ -9,6 +9,9 @@ Here are the technologies used in this project.
 * Prisma
 * Node Js
 * Json Web Token
+* Bcrypt
+* Cors
+* Express
 
 ## Authors
 
