@@ -5,8 +5,6 @@ The objective of this project is to create a backend for a for a barbershop syst
 
 Here are the technologies used in this project.
 
-* React
-* Typescript
 * PostgreSQL
 * Prisma
 * Node Js
